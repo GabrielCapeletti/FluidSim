@@ -1440,7 +1440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dba4ef3f615f4c44684dc794351a67c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brushSize: 40
+  _brushSize: 10
   _mainCamera: {fileID: 1663820881}
   _outputMaterial: {fileID: 2100000, guid: d8175f508cc8a814a8bdc75facc9d3fd, type: 2}
   _diffusionMaterial: {fileID: 2100000, guid: bb78f22cec4dcf24385c66862ec681a3, type: 2}

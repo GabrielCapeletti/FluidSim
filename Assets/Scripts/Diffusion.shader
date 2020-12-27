@@ -11,8 +11,8 @@ Shader "Fluid/diffusion"
         _ExternalForce ("External Texture", 2D) = "black" {}
         _ResultTex ("Result Texture", 2D) = "black" {}  
         
-        _DiffusionRate ("Diffusion Rate", float) = 1
-        _GridCellSize ("Grid Cell Size", float) = 0.002           
+        _DiffusionRate ("Diffusion Rate", float) = 0.001
+        _GridCellSize ("Grid Cell Size", float) = 0.002        
     }
     SubShader
     {
